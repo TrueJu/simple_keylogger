@@ -5,7 +5,7 @@ There is no console displayed while the keylogger is active. This is achieved wi
 Could be turned into an executable with the pyinstaller package
 
 ## Step 1:
-pip install pyinstaller
+```pip install pyinstaller```
 
 ## Step 2:
-pyinstaller main.pyw   => (inside project directory)
+```pyinstaller main.pyw```   => (inside project directory)
